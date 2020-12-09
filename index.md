@@ -1,10 +1,31 @@
-## Welcome to GitHub Pages
+# GeneSyntenyDB
 
-You can use the [editor on GitHub](https://github.com/gisleDK/LocalDB_with_gene_synteny/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This will show you how to set up a workflow that allows gene synteny analysis on genomes stored at NCBI.
+The protocol is divided into four major parts:
+1) Database creation
+2) Taxonomic annotation
+3) Functional annotation
+4) Gene synteny
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is still very much a work in progress, but feel free to submit a [github issue](https://github.com/gisleDK/LocalDB_with_gene_synteny/issues) or contact me at gisves at dtu dot dk
 
-### Markdown
+**Table of contents**
+- [GeneSyntenyDB](#genesyntenydb)
+  * [Database creation](#database-creation)
+  * [Taxonomic annotation](#taxonomic-annotation)
+  * [Functional annotation](#functional-annotation)
+  * [Gene synteny](#gene-synteny)
+
+## Database creation
+
+## Taxonomic annotation
+
+## Functional annotation
+
+## Gene synteny
+
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
