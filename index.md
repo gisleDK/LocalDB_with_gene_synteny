@@ -37,8 +37,31 @@ To extract all CDS and attach a unique identifier that also includes gene order 
 ```
 extractCDSfromGB.py -i complete.gbk > archaea.cds.faa
 ```
-
-## Taxonomic annotation
+The output fasta file contains all actual CDS features of the Genbank file. Each fasta header consists of >ACCESSION NUMBER_PROTEIN ID_UNIQUE ID
+### Plasmids database creation
+Plasmids are a bit different at NCBI, so it is done with minor modifications. We download all plasmids:
+```
+wget ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/plasmid/plasmid.*.genomic.gbff.gz
+```
+Concatenate
+```
+zcat *.gbff.gz > complete.gbk
+```
+To extract all CDS and attach a unique identifier that also includes gene order found in Genbank files (features are stored according to position) we use [extractCDSfromGB.py](https://github.com/gisleDK/LocalDB_with_gene_synteny/blob/main/extractCDSfromGB.py)
+```
+extractCDSfromGB.py -i complete.gbk > archaea.cds.faa
+```
+The output fasta file contains all actual CDS features of the Genbank file. Each fasta header consists of >ACCESSION NUMBER_PROTEIN ID_UNIQUE ID
+## Taxonomic annotation (optional)
+This is not necessary for many of the following gene synteny analysis, but included nonetheless.
+This can be done several ways. For this workflow I chose [Kaiju](http://kaiju.binf.ku.dk/) because I need sensitivity and speed more than precision. See their webpage for installation instructions and how to setup your Kaiju database.
+```
+kaiju -t nodes.dmp -f kaiju_db_nr_euk.fmi -i archaea.cds.faa -o archaea.cds.faa.kaiju -z 20 -p -v
+```
+Adding full taxon path to Kaiju output
+```
+kaiju-addTaxonNames -i archaea.cds.faa.kaiju -o archaea.cds.faa.kaiju.names -t nodes.dmp -n kaiju_db_nr_euk_names.dmp -p
+```
 
 ## Functional annotation
 
