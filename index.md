@@ -20,15 +20,24 @@ This is still very much a work in progress, but feel free to submit a [github is
 The database is based on NCBI data and uses their [ftp server](https://ftp.ncbi.nlm.nih.gov/genomes). I use the non-redundant genomes found in refseq, but since the structure is the same, genbank shoould also work. First we need to download the relevant overview file called assembly_summary.txt. In this case we are interested in all archaeal genomes found in refseq:
 ```
 wget ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/archaea/assembly_summary.txt
- ```
+```
 This is a tabulated table of all archaeal genomes and column 12 tells us if the genome is complete. We extract a list of complete genomes using awk:
- ```
+```
 awk -F '\t' '{if($12=="Complete Genome") print $20}' assembly_summary.txt > complete.list
- ```
+```
 Now we can download from NCBI using:
-  ```
+```
 for next in $(cat complete.list); do wget -P Complete "$next"/*genomic.gbff.gz; done
-  ```
+```
+We unpack and concatenate all files to make one big genbank file:
+```
+zcat Complete/*.gbff.gz > complete.gbk
+```
+To extract all CDS and attach a unique identifier that also includes gene order found in Genbank files (features are stored according to position) we use [extractCDSfromGB.py](https://github.com/gisleDK/LocalDB_with_gene_synteny/blob/main/extractCDSfromGB.py)
+```
+extractCDSfromGB.py -i complete.gbk > archaea.cds.faa
+```
+
 ## Taxonomic annotation
 
 ## Functional annotation
