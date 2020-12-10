@@ -64,7 +64,10 @@ kaiju-addTaxonNames -i archaea.cds.faa.kaiju -o archaea.cds.faa.kaiju.names -t n
 ```
 
 ## Functional annotation
-
+For functional annotation we will use the slow but excellent [EggNOG-mapper](https://github.com/eggnogdb/eggnog-mapper). See their webpage for installation instructions and how to setup their database.
+```
+emapper.py -m diamond --cpu 10 -i archaea.cds.faa -o archaea.eggnog
+```
 ## Gene synteny
 
 
