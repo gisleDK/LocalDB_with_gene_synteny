@@ -1,11 +1,11 @@
 # GeneSyntenyDB
 
 This will show you how to set up a workflow that allows gene synteny analysis on genomes stored at NCBI.
-The protocol is divided into four major parts: <br>
-1) Database creation <br>
-2) Taxonomic annotation <br>
-3) Functional annotation <br>
-4) Gene synteny <br>
+The protocol is divided into four major parts: \
+1) Database creation \
+2) Taxonomic annotation \
+3) Functional annotation \
+4) Gene synteny \
 
 This is still very much a work in progress, but feel free to submit a [github issue](https://github.com/gisleDK/LocalDB_with_gene_synteny/issues) or contact me at gisves at dtu dot dk
 
