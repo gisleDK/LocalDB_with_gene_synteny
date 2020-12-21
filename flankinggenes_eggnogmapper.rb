@@ -1,4 +1,9 @@
-#!/home/incerta/Metagenomics/bin/Programs/Miniconda/bin/ruby
+#!/usr/bin/env ruby
+# Written using Ruby 2.7.2p137
+# Uses <samples>.emapper.annotations output from eggnog-mapper and
+# a genes of interest list. Flanking genes are written to stdout and
+# the number of cooccurences for each gene is written to output file.
+# Needs to be rewritten and optimized in Python.
 
 require 'pp'
 require 'optparse'
