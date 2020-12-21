@@ -1,0 +1,506 @@
+["1114856.C496_09831", "Histidine kinase"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1227495.C487_01615", "Transposase"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1227495.C487_17330", "-"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1227484.C471_10005", "-"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["1114856.C496_09831", "Histidine kinase"]	["1227453.C444_07555", "-"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["29540.C481_14538", "-"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["1227484.C471_09985", "-"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["1227484.C471_09990", "-"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1114856.C496_09831", "Histidine kinase"]	["797209.ZOD2009_15916", "-"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227495.C487_01615", "Transposase"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227495.C487_17330", "-"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227484.C471_10005", "-"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227453.C444_07555", "-"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["29540.C481_14538", "-"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227484.C471_09985", "-"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227484.C471_09990", "-"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1158614.I592_02201", "DEAD-like helicases superfamily"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227453.C444_07555", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["1227453.C444_07555", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["1227453.C444_07555", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["1227453.C444_07555", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["1227453.C444_07555", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["1227453.C444_07555", "-"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["1227453.C444_07555", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["1227453.C444_07555", "-"]	["1227495.C487_01615", "Transposase"]	1.0
+["1227453.C444_07555", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["1227453.C444_07555", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["1227453.C444_07555", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["1227453.C444_07555", "-"]	["1227495.C487_17330", "-"]	1.0
+["1227453.C444_07555", "-"]	["1227484.C471_10005", "-"]	1.0
+["1227453.C444_07555", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["1227453.C444_07555", "-"]	["29540.C481_14538", "-"]	1.0
+["1227453.C444_07555", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227453.C444_07555", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227453.C444_07555", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227453.C444_07555", "-"]	["1227484.C471_09985", "-"]	1.0
+["1227453.C444_07555", "-"]	["1227484.C471_09990", "-"]	1.0
+["1227453.C444_07555", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227453.C444_07555", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227484.C471_09985", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09985", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["1227484.C471_09985", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["1227484.C471_09985", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09985", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09985", "-"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["1227484.C471_09985", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["1227484.C471_09985", "-"]	["1227495.C487_01615", "Transposase"]	1.0
+["1227484.C471_09985", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["1227484.C471_09985", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["1227484.C471_09985", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["1227484.C471_09985", "-"]	["1227495.C487_17330", "-"]	1.0
+["1227484.C471_09985", "-"]	["1227484.C471_10005", "-"]	1.0
+["1227484.C471_09985", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["1227484.C471_09985", "-"]	["1227453.C444_07555", "-"]	1.0
+["1227484.C471_09985", "-"]	["29540.C481_14538", "-"]	1.0
+["1227484.C471_09985", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227484.C471_09985", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227484.C471_09985", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227484.C471_09985", "-"]	["1227484.C471_09990", "-"]	1.0
+["1227484.C471_09985", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227484.C471_09985", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227484.C471_09990", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09990", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["1227484.C471_09990", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["1227484.C471_09990", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09990", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09990", "-"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["1227484.C471_09990", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["1227484.C471_09990", "-"]	["1227495.C487_01615", "Transposase"]	1.0
+["1227484.C471_09990", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["1227484.C471_09990", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["1227484.C471_09990", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["1227484.C471_09990", "-"]	["1227495.C487_17330", "-"]	1.0
+["1227484.C471_09990", "-"]	["1227484.C471_10005", "-"]	1.0
+["1227484.C471_09990", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["1227484.C471_09990", "-"]	["1227453.C444_07555", "-"]	1.0
+["1227484.C471_09990", "-"]	["29540.C481_14538", "-"]	1.0
+["1227484.C471_09990", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227484.C471_09990", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227484.C471_09990", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227484.C471_09990", "-"]	["1227484.C471_09985", "-"]	1.0
+["1227484.C471_09990", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227484.C471_09990", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227495.C487_01615", "Transposase"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227495.C487_17330", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227484.C471_10005", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227453.C444_07555", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["29540.C481_14538", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227484.C471_09985", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["1227484.C471_09990", "-"]	1.0
+["1227484.C471_09995", "Transcriptional regulators"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227484.C471_10005", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1227484.C471_10005", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1227484.C471_10005", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1227484.C471_10005", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1227484.C471_10005", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1227484.C471_10005", "-"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["1227484.C471_10005", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1227484.C471_10005", "-"]	["1227495.C487_01615", "Transposase"]	2.0
+["1227484.C471_10005", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1227484.C471_10005", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["1227484.C471_10005", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1227484.C471_10005", "-"]	["1227495.C487_17330", "-"]	2.0
+["1227484.C471_10005", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["1227484.C471_10005", "-"]	["1227453.C444_07555", "-"]	1.0
+["1227484.C471_10005", "-"]	["29540.C481_14538", "-"]	1.0
+["1227484.C471_10005", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227484.C471_10005", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227484.C471_10005", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227484.C471_10005", "-"]	["1227484.C471_09985", "-"]	1.0
+["1227484.C471_10005", "-"]	["1227484.C471_09990", "-"]	1.0
+["1227484.C471_10005", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227484.C471_10005", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227495.C487_01615", "Transposase"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_01615", "Transposase"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1227495.C487_01615", "Transposase"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1227495.C487_01615", "Transposase"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_01615", "Transposase"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_01615", "Transposase"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["1227495.C487_01615", "Transposase"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1227495.C487_01615", "Transposase"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1227495.C487_01615", "Transposase"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["1227495.C487_01615", "Transposase"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1227495.C487_01615", "Transposase"]	["1227495.C487_17330", "-"]	2.0
+["1227495.C487_01615", "Transposase"]	["1227484.C471_10005", "-"]	2.0
+["1227495.C487_01615", "Transposase"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["1227495.C487_01615", "Transposase"]	["1227453.C444_07555", "-"]	1.0
+["1227495.C487_01615", "Transposase"]	["29540.C481_14538", "-"]	1.0
+["1227495.C487_01615", "Transposase"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227495.C487_01615", "Transposase"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227495.C487_01615", "Transposase"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227495.C487_01615", "Transposase"]	["1227484.C471_09985", "-"]	1.0
+["1227495.C487_01615", "Transposase"]	["1227484.C471_09990", "-"]	1.0
+["1227495.C487_01615", "Transposase"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227495.C487_01615", "Transposase"]	["797209.ZOD2009_15916", "-"]	1.0
+["1227495.C487_17330", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_17330", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1227495.C487_17330", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1227495.C487_17330", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_17330", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1227495.C487_17330", "-"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["1227495.C487_17330", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1227495.C487_17330", "-"]	["1227495.C487_01615", "Transposase"]	2.0
+["1227495.C487_17330", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1227495.C487_17330", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["1227495.C487_17330", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1227495.C487_17330", "-"]	["1227484.C471_10005", "-"]	2.0
+["1227495.C487_17330", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["1227495.C487_17330", "-"]	["1227453.C444_07555", "-"]	1.0
+["1227495.C487_17330", "-"]	["29540.C481_14538", "-"]	1.0
+["1227495.C487_17330", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1227495.C487_17330", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1227495.C487_17330", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1227495.C487_17330", "-"]	["1227484.C471_09985", "-"]	1.0
+["1227495.C487_17330", "-"]	["1227484.C471_09990", "-"]	1.0
+["1227495.C487_17330", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1227495.C487_17330", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227495.C487_01615", "Transposase"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227495.C487_17330", "-"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227484.C471_10005", "-"]	2.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227453.C444_07555", "-"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["29540.C481_14538", "-"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["272569.rrnAC2329", "integrase family"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227484.C471_09985", "-"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227484.C471_09990", "-"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["1261545.MBE-HAL_1256", "Transcriptional regulator"]	["797209.ZOD2009_15916", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227495.C487_01615", "Transposase"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227495.C487_17330", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227484.C471_10005", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227453.C444_07555", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["29540.C481_14538", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["272569.rrnAC2329", "integrase family"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227484.C471_09985", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227484.C471_09990", "-"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["272569.pNG4036", "Transcriptional regulator"]	["797209.ZOD2009_15916", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["272569.rrnAC2329", "integrase family"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["272569.rrnAC2329", "integrase family"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["272569.rrnAC2329", "integrase family"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["272569.rrnAC2329", "integrase family"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["272569.rrnAC2329", "integrase family"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227495.C487_01615", "Transposase"]	1.0
+["272569.rrnAC2329", "integrase family"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["272569.rrnAC2329", "integrase family"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227495.C487_17330", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227484.C471_10005", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227453.C444_07555", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["29540.C481_14538", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["272569.rrnAC2329", "integrase family"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227484.C471_09985", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227484.C471_09990", "-"]	1.0
+["272569.rrnAC2329", "integrase family"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["272569.rrnAC2329", "integrase family"]	["797209.ZOD2009_15916", "-"]	1.0
+["29540.C481_14538", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["29540.C481_14538", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["29540.C481_14538", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["29540.C481_14538", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["29540.C481_14538", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["29540.C481_14538", "-"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["29540.C481_14538", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["29540.C481_14538", "-"]	["1227495.C487_01615", "Transposase"]	1.0
+["29540.C481_14538", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["29540.C481_14538", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["29540.C481_14538", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["29540.C481_14538", "-"]	["1227495.C487_17330", "-"]	1.0
+["29540.C481_14538", "-"]	["1227484.C471_10005", "-"]	1.0
+["29540.C481_14538", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["29540.C481_14538", "-"]	["1227453.C444_07555", "-"]	1.0
+["29540.C481_14538", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["29540.C481_14538", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["29540.C481_14538", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["29540.C481_14538", "-"]	["1227484.C471_09985", "-"]	1.0
+["29540.C481_14538", "-"]	["1227484.C471_09990", "-"]	1.0
+["29540.C481_14538", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["29540.C481_14538", "-"]	["797209.ZOD2009_15916", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227495.C487_01615", "Transposase"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227495.C487_17330", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227484.C471_10005", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227453.C444_07555", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["29540.C481_14538", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["272569.rrnAC2329", "integrase family"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227484.C471_09985", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227484.C471_09990", "-"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["309800.C498_17298", "IMG reference gene"]	["797209.ZOD2009_15916", "-"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["402880.MmarC5_1848", "protein conserved in archaea"]	3.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227495.C487_01615", "Transposase"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227495.C487_17330", "-"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227484.C471_10005", "-"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227453.C444_07555", "-"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["29540.C481_14538", "-"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["272569.rrnAC2329", "integrase family"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227484.C471_09985", "-"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227484.C471_09990", "-"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	["797209.ZOD2009_15916", "-"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	3.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1848", "protein conserved in archaea"]	3.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227495.C487_01615", "Transposase"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227495.C487_17330", "-"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227484.C471_10005", "-"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227453.C444_07555", "-"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["29540.C481_14538", "-"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["272569.rrnAC2329", "integrase family"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227484.C471_09985", "-"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227484.C471_09990", "-"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	["797209.ZOD2009_15916", "-"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	3.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1848", "protein conserved in archaea"]	3.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227495.C487_01615", "Transposase"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227495.C487_17330", "-"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227484.C471_10005", "-"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227453.C444_07555", "-"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["29540.C481_14538", "-"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["272569.rrnAC2329", "integrase family"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227484.C471_09985", "-"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227484.C471_09990", "-"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	["797209.ZOD2009_15916", "-"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	3.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1848", "protein conserved in archaea"]	3.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227495.C487_01615", "Transposase"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227495.C487_17330", "-"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227484.C471_10005", "-"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227453.C444_07555", "-"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["29540.C481_14538", "-"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["272569.rrnAC2329", "integrase family"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227484.C471_09985", "-"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227484.C471_09990", "-"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	["797209.ZOD2009_15916", "-"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	3.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	3.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227495.C487_01615", "Transposase"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227495.C487_17330", "-"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227484.C471_10005", "-"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227453.C444_07555", "-"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["29540.C481_14538", "-"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["272569.rrnAC2329", "integrase family"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227484.C471_09985", "-"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227484.C471_09990", "-"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["402880.MmarC5_1848", "protein conserved in archaea"]	["797209.ZOD2009_15916", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	1.0
+["797209.ZOD2009_15916", "-"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	1.0
+["797209.ZOD2009_15916", "-"]	["402880.MmarC5_1848", "protein conserved in archaea"]	1.0
+["797209.ZOD2009_15916", "-"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	1.0
+["797209.ZOD2009_15916", "-"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	1.0
+["797209.ZOD2009_15916", "-"]	["1114856.C496_09831", "Histidine kinase"]	1.0
+["797209.ZOD2009_15916", "-"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227495.C487_01615", "Transposase"]	1.0
+["797209.ZOD2009_15916", "-"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	1.0
+["797209.ZOD2009_15916", "-"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	1.0
+["797209.ZOD2009_15916", "-"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227495.C487_17330", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227484.C471_10005", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227453.C444_07555", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["29540.C481_14538", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["797209.ZOD2009_15916", "-"]	["272569.rrnAC2329", "integrase family"]	1.0
+["797209.ZOD2009_15916", "-"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227484.C471_09985", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227484.C471_09990", "-"]	1.0
+["797209.ZOD2009_15916", "-"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227495.C487_01615", "Transposase"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227495.C487_17330", "-"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227484.C471_10005", "-"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227453.C444_07555", "-"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["29540.C481_14538", "-"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["272569.rrnAC2329", "integrase family"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227484.C471_09985", "-"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227484.C471_09990", "-"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	["797209.ZOD2009_15916", "-"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227495.C487_01615", "Transposase"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["797304.Natgr_0406", "PFAM Transposase DDE domain"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227495.C487_17330", "-"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227484.C471_10005", "-"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227453.C444_07555", "-"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["29540.C481_14538", "-"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["272569.rrnAC2329", "integrase family"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227484.C471_09985", "-"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227484.C471_09990", "-"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	["797209.ZOD2009_15916", "-"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["402880.MmarC5_1842", "Protein of unknown function (DUF2540)"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["402880.MmarC5_1841", "COG3451 Type IV secretory pathway, VirB4 components"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["402880.MmarC5_1848", "protein conserved in archaea"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["402880.MmarC5_1845", "Protein of unknown function (DUF2540)"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["402880.MmarC5_1844", "Protein of unknown function (DUF2540)"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1114856.C496_09831", "Histidine kinase"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["797302.Halru_0524", "General factor that plays a role in the activation of archaeal genes transcribed by RNA polymerase. Binds specifically to the TATA box promoter element which lies close to the position of transcription initiation"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227495.C487_01615", "Transposase"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["797303.Natpe_0310", "COG3385 FOG Transposase and inactivated derivatives"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1158614.I592_02201", "DEAD-like helicases superfamily"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227495.C487_17330", "-"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227484.C471_10005", "-"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1261545.MBE-HAL_1256", "Transcriptional regulator"]	2.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227453.C444_07555", "-"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["29540.C481_14538", "-"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["272569.pNG4036", "Transcriptional regulator"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["272569.rrnAC2329", "integrase family"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["309800.C498_17298", "IMG reference gene"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227484.C471_09985", "-"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227484.C471_09990", "-"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["1227484.C471_09995", "Transcriptional regulators"]	1.0
+["797304.Natgr_0406", "PFAM Transposase DDE domain"]	["797209.ZOD2009_15916", "-"]	1.0
