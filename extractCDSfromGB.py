@@ -17,7 +17,6 @@ for genome in SeqIO.parse(f_open, "genbank"):
 	for gene in genome.features:
 		if gene.type == 'CDS'and 'translation' in gene.qualifiers:
 			uniqid +=1
-			CDS=gene
 			id = ''.join(gene.qualifiers['protein_id'])
 			print(">",("_".join((genome.id,id,str(f"{uniqid:09d}")))), sep ='')
 			print(''.join(gene.qualifiers['translation']))
