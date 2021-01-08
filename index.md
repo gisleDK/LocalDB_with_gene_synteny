@@ -52,7 +52,13 @@ To extract all CDS and attach a unique identifier that also includes gene order 
 extractCDSfromGB.py -i complete.gbk > archaea.cds.faa
 ```
 The output fasta file contains all actual CDS features of the Genbank file. Each fasta header consists of >ACCESSION NUMBER_PROTEIN ID_UNIQUE ID
-## Taxonomic annotation (optional)
+## Taxonomic annotation using Genbank files (optional)
+This is not necessary for many of the following gene synteny analysis, but included nonetheless. 
+This can be done several ways. Here I'll use the information from Genbank files that follow NCBI syntax.
+```
+extractTaxfromGB.py -i complete.gbk > archaea_taxonomy.tsv
+```
+## Taxonomic annotation using Kaiju (optional)
 This is not necessary for many of the following gene synteny analysis, but included nonetheless.
 This can be done several ways. For this workflow I chose [Kaiju](http://kaiju.binf.ku.dk/) because I need sensitivity and speed more than precision. See their webpage for installation instructions and how to setup your Kaiju database.
 ```
