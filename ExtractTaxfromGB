@@ -1,0 +1,22 @@
+#!/home/incerta/Metagenomics/bin/Programs/Miniconda/bin/python3
+# Written for biopython under python 3.8.5
+# V0.01 Written by Gisle Vestergaard (gislevestergaard@gmail.com)
+# Takes a Genbank file and outputs Accession number <tab> Taxonomy
+
+import argparse
+from Bio import SeqIO
+
+
+parser = argparse.ArgumentParser(description='extract CDS from concatenated genbank file and add id.')
+parser.add_argument('-i','--input', help='Input concatenated genbank file', required=True)
+parser.add_argument('-n','--number', help='Input unique id starting value', default=0, type=int)
+args = parser.parse_args()
+
+f_open = open(args.input, "r")
+uniqid = args.number
+
+for genome in SeqIO.parse(f_open, "genbank"):
+	acc = genome.annotations['accessions'][0]
+	tax = genome.annotations['taxonomy']
+	print(acc, "_".join(tax), sep="\t")
+f_open.close()
